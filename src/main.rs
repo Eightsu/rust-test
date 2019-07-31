@@ -2,7 +2,11 @@
 // mod print;
 //    mod vars;
 //    mod types;
-   mod strings;
+//    mod strings;
+//    mod tuplels;
+//    mod arrays;
+      mod vectors;
+    //   mod guess;
 
 fn main() {
     // Usual Hello World Example
@@ -10,5 +14,5 @@ fn main() {
     
     // running print function
     // print::run();
-       strings:: run();
+       vectors:: run();
 }

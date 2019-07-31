@@ -49,5 +49,5 @@ pub fn run() {
 
     // Assertion test - if success nothing happens, if fail, the compiler panics.
     assert_eq!(4, s.len());
-    assert_eq!(10, s.capacity());
+    assert_eq!(10, s.capacity()); 
 }
