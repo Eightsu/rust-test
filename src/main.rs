@@ -5,7 +5,8 @@
 //    mod strings;
 //    mod tuplels;
 //    mod arrays;
-      mod vectors;
+    //   mod vectors;
+      mod conditionals;
     //   mod guess;
 
 fn main() {
@@ -14,5 +15,5 @@ fn main() {
     
     // running print function
     // print::run();
-       vectors:: run();
+       conditionals:: run();
 }
