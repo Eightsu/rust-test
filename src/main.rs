@@ -6,8 +6,9 @@
 //    mod tuplels;
 //    mod arrays;
     //   mod vectors;
-      mod conditionals;
+    //   mod conditionals;
     //   mod guess;
+         mod loops;
 
 fn main() {
     // Usual Hello World Example
@@ -15,5 +16,5 @@ fn main() {
     
     // running print function
     // print::run();
-       conditionals:: run();
+       loops:: run();
 }
