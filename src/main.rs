@@ -8,7 +8,8 @@
     //   mod vectors;
     //   mod conditionals;
     //   mod guess;
-         mod loops;
+        //  mod loops;
+         mod functions;
 
 fn main() {
     // Usual Hello World Example
@@ -16,5 +17,5 @@ fn main() {
     
     // running print function
     // print::run();
-       loops:: run();
+       functions:: run();
 }
