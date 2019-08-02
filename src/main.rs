@@ -9,7 +9,9 @@
     //   mod conditionals;
     //   mod guess;
         //  mod loops;
-         mod functions;
+        //  mod functions;
+        //  mod pointer_refs;
+        mod structs;
 
 fn main() {
     // Usual Hello World Example
@@ -17,5 +19,5 @@ fn main() {
     
     // running print function
     // print::run();
-       functions:: run();
+       structs:: run();
 }
