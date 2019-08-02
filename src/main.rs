@@ -12,7 +12,8 @@
         //  mod functions;
         //  mod pointer_refs;
         // mod structs;
-        mod enums;
+        // mod enums;
+        mod cli;
 
 fn main() {
     // Usual Hello World Example
@@ -20,5 +21,5 @@ fn main() {
     
     // running print function
     // print::run();
-       enums:: run();
+       cli:: run();
 }
