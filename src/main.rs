@@ -11,7 +11,8 @@
         //  mod loops;
         //  mod functions;
         //  mod pointer_refs;
-        mod structs;
+        // mod structs;
+        mod enums;
 
 fn main() {
     // Usual Hello World Example
@@ -19,5 +20,5 @@ fn main() {
     
     // running print function
     // print::run();
-       structs:: run();
+       enums:: run();
 }
